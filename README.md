@@ -3,3 +3,5 @@
 ![rank](https://github-readme-stats.vercel.app/api?username=gustavosillva0256&show_icons=true&theme=gruvbox)
 
 ![troféu](https://github-profile-trophy.vercel.app/?username=gustavosillva0256&theme=gruvbox&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15)
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
