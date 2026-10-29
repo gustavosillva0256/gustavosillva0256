@@ -1,6 +1,6 @@
 ## Gustavo Pereira da Silva
 
-**Desenvolvedor Full Stack Pleno** · Node.js · NestJS · TypeScript · React · PostgreSQL
+**Desenvolvedor Full Stack Pleno** · Node.js · NestJS · TypeScript · React · PostgreSQL<br>
 Espírito Santo, Brasil · disponível para trabalho remoto e para oportunidades em Portugal
 
 Desenvolvedor com mais de 5 anos de experiência, focado em back-end com NestJS e TypeScript. Coloquei em produção, sozinho, uma plataforma de gestão de crédito rural e fui o único desenvolvedor da API do SisGenpro, sistema de gestão de processos escolares do Governo do Espírito Santo. Uso Claude Code e agentes de IA no dia a dia para planejar, revisar código, escrever testes e auditar segurança.
